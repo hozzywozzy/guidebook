@@ -1,0 +1,17 @@
+
+/* Biome colour bars */
+.biome-bar{
+  display:inline-block;width:1.1em;height:.65em;border-radius:2px;margin-right:.35em;
+}
+.biome-shore{background:#5EC3FF}
+.biome-tropics{background:#34C759}
+.biome-alpine{background:#BFD4FF}
+.biome-caldera{background:#FF8E42}
+.biome-kiln{background:#FF4757}
+.biome-peak{background:#F9E79F}
+
+/* Run‑planner card */
+.run-planner{padding:1rem;border:1px solid var(--border-color);border-radius:6px;background:var(--sidebar-background)}
+@media (min-width: 992px){
+  .run-planner{position:sticky;top:4rem}
+}
