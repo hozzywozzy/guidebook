@@ -21,5 +21,6 @@ Use the sidebar or the quick links below to jump to a section.
 ---
 
 _Built with ❤ by the PEAK community and powered by GitHub Pages._
+- [Game Changelog](./pages/game-changelog.md)
 - [Run Planner](./pages/run-planner.md)
 - [Changelog](./pages/changelog.md)

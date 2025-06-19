@@ -1,14 +1,14 @@
+
 ---
 layout: default
-title: Changelog
-nav_order: 99
+title: Documentation Changelog
+nav_order: 97
 ---
-# Changelog
+# Documentation Changelog
 
 ## 2025-06-19
-* Added Biome colour bars CSS.
-* Introduced interactive “Run Planner” widget.
-* Began tracking patch notes (this page).
+* Added **Game Changelog** page.
+* Updated file structure and quick links.
 
 ## 2025-06-19
 * Initial public release of the Guidebook (v1.0).
